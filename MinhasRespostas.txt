@@ -1,6 +1,10 @@
 MinhasRespostas 
 
 1) Oque é um repositório?
+Um reposirório é uma anotação onde você irá colocar um codigo base que será modificado ao longo do tempo.
 2)Qual a diferença entr Git e Github?
-3)Porque utilizar controle de versão para os arquivos de i, projeo de desenvolvimento de software?
+O git é o software onde você vai salvar o seu código e o github é a plataforma/rede social onde você vai colocar o seu código para apresenta-lo a outras pessoas
+3)Porque utilizar controle de versão para os arquivos de um projeto de desenvolvimento de software?
+Para manter a ordem e sempre moder modificar algo que eu ache errado.
 4)Quais vatagens você enxega no Git?Você utilizaria em seu projeto?
+Eu enxergo que com o git é possivel sempre manter a organização e saber oque cada um esta fazendo(em caso de projeto em grupo).Possivelmente utilizaria sim , mas tenho que aprender mais sobre ele.
